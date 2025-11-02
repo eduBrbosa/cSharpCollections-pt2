@@ -43,8 +43,8 @@ namespace Collections_Pt2
 
             IDictionary<string, Aluno> sorted = new SortedList<string, Aluno>();
 
-            sorted.Add("AL", new Aluno("Vanessa", 34672));
-            sorted.Add("VT", new Aluno("Ana", 5617));
+            sorted.Add("AL", new Aluno("Ana", 5617));
+            sorted.Add("VT", new Aluno("Vanessa", 34672));
             sorted.Add("RN", new Aluno("Rafael", 17654));
             sorted.Add("WM", new Aluno("Wanderson", 11287));
 
