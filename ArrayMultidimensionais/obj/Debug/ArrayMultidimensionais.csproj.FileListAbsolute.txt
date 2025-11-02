@@ -1,0 +1,7 @@
+C:\Projetos\Collections-pt2\Collections-Pt2\ArrayMultidimensionais\bin\Debug\ArrayMultidimensionais.exe.config
+C:\Projetos\Collections-pt2\Collections-Pt2\ArrayMultidimensionais\bin\Debug\ArrayMultidimensionais.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\ArrayMultidimensionais\bin\Debug\ArrayMultidimensionais.pdb
+C:\Projetos\Collections-pt2\Collections-Pt2\ArrayMultidimensionais\obj\Debug\ArrayMultidimensionais.csproj.AssemblyReference.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\ArrayMultidimensionais\obj\Debug\ArrayMultidimensionais.csproj.CoreCompileInputs.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\ArrayMultidimensionais\obj\Debug\ArrayMultidimensionais.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\ArrayMultidimensionais\obj\Debug\ArrayMultidimensionais.pdb
