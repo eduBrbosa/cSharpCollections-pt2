@@ -1,0 +1,7 @@
+C:\Projetos\Collections-pt2\Collections-Pt2\Collections-Pt2\bin\Debug\Collections-Pt2.exe.config
+C:\Projetos\Collections-pt2\Collections-Pt2\Collections-Pt2\bin\Debug\Collections-Pt2.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\Collections-Pt2\bin\Debug\Collections-Pt2.pdb
+C:\Projetos\Collections-pt2\Collections-Pt2\Collections-Pt2\obj\Debug\Collections-Pt2.csproj.AssemblyReference.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\Collections-Pt2\obj\Debug\Collections-Pt2.csproj.CoreCompileInputs.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\Collections-Pt2\obj\Debug\Collections-Pt2.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\Collections-Pt2\obj\Debug\Collections-Pt2.pdb
