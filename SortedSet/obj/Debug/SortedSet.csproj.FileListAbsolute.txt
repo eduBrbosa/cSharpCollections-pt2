@@ -1,0 +1,7 @@
+C:\Projetos\Collections-pt2\Collections-Pt2\SortedSet\bin\Debug\SortedSet.exe.config
+C:\Projetos\Collections-pt2\Collections-Pt2\SortedSet\bin\Debug\SortedSet.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\SortedSet\bin\Debug\SortedSet.pdb
+C:\Projetos\Collections-pt2\Collections-Pt2\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\SortedSet\obj\Debug\SortedSet.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\SortedSet\obj\Debug\SortedSet.pdb
