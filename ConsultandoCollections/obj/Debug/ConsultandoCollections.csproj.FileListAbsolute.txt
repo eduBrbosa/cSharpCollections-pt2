@@ -1,0 +1,7 @@
+C:\Projetos\Collections-pt2\Collections-Pt2\ConsultandoCollections\bin\Debug\ConsultandoCollections.exe.config
+C:\Projetos\Collections-pt2\Collections-Pt2\ConsultandoCollections\bin\Debug\ConsultandoCollections.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\ConsultandoCollections\bin\Debug\ConsultandoCollections.pdb
+C:\Projetos\Collections-pt2\Collections-Pt2\ConsultandoCollections\obj\Debug\ConsultandoCollections.csproj.AssemblyReference.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\ConsultandoCollections\obj\Debug\ConsultandoCollections.csproj.CoreCompileInputs.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\ConsultandoCollections\obj\Debug\ConsultandoCollections.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\ConsultandoCollections\obj\Debug\ConsultandoCollections.pdb
