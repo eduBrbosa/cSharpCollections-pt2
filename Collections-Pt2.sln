@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrays", "JaggedArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultandoCollections", "ConsultandoCollections\ConsultandoCollections.csproj", "{DE62EED5-21D2-40F4-AC9E-F2782436BDAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenciasDeElementos", "SequenciasDeElementos\SequenciasDeElementos.csproj", "{EE13FE4F-BF7E-4150-BF01-6D0A51B0CA1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{DE62EED5-21D2-40F4-AC9E-F2782436BDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE62EED5-21D2-40F4-AC9E-F2782436BDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE62EED5-21D2-40F4-AC9E-F2782436BDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE13FE4F-BF7E-4150-BF01-6D0A51B0CA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE13FE4F-BF7E-4150-BF01-6D0A51B0CA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE13FE4F-BF7E-4150-BF01-6D0A51B0CA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE13FE4F-BF7E-4150-BF01-6D0A51B0CA1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

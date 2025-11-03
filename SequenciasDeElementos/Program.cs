@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsultandoCollections
+namespace SequenciasDeElementos
 {
     class Program
     {
@@ -26,28 +26,34 @@ namespace ConsultandoCollections
                 new Mes("Dezembro ", 31)
             };
 
-            //meses.Sort();
-            //foreach (var mes in meses)
-            //{
-            //    if(mes.Dias == 31)
-            //    {
-            //        Console.WriteLine(mes.Nome.ToUpper());
-
-            //    }
-            //}
-            //Console.WriteLine();
-
-            IEnumerable<string>
-                consulta = meses
-                            .Where(m => m.Dias == 31)
-                            .OrderBy(m => m.Nome)
-                            .Select(m => m.Nome.ToUpper());
-
-            foreach(var item in consulta)
-            {
+            var querry = meses.Take(3);
+            foreach(var item in querry)
                 Console.WriteLine(item);
-            }
+            Console.WriteLine();
 
+            var querry2 = meses.Skip(3);
+            foreach (var item in querry2)
+                Console.WriteLine(item);
+            Console.WriteLine();
+
+            var querry3 = 
+                meses.Skip(6)
+                     .Take(3);
+            foreach (var item in querry3)
+                Console.WriteLine(item);
+            Console.WriteLine();
+
+            var querry4 =
+                meses.TakeWhile(m => !m.Nome.StartsWith("S"));
+            foreach (var item in querry4)
+                Console.WriteLine(item);
+            Console.WriteLine();
+
+            var querry5 =
+                meses.SkipWhile(m => !m.Nome.StartsWith("S"));
+            foreach (var item in querry5)
+                Console.WriteLine(item);
+            Console.WriteLine();
 
             Console.ReadLine();
         }
