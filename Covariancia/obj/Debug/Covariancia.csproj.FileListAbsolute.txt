@@ -1,0 +1,7 @@
+C:\Projetos\Collections-pt2\Collections-Pt2\Covariancia\bin\Debug\Covariancia.exe.config
+C:\Projetos\Collections-pt2\Collections-Pt2\Covariancia\bin\Debug\Covariancia.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\Covariancia\bin\Debug\Covariancia.pdb
+C:\Projetos\Collections-pt2\Collections-Pt2\Covariancia\obj\Debug\Covariancia.csproj.AssemblyReference.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\Covariancia\obj\Debug\Covariancia.csproj.CoreCompileInputs.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\Covariancia\obj\Debug\Covariancia.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\Covariancia\obj\Debug\Covariancia.pdb
