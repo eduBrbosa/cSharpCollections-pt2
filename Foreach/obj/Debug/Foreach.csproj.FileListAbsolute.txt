@@ -1,0 +1,7 @@
+C:\Projetos\Collections-pt2\Collections-Pt2\Foreach\bin\Debug\Foreach.exe.config
+C:\Projetos\Collections-pt2\Collections-Pt2\Foreach\bin\Debug\Foreach.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\Foreach\bin\Debug\Foreach.pdb
+C:\Projetos\Collections-pt2\Collections-Pt2\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Projetos\Collections-pt2\Collections-Pt2\Foreach\obj\Debug\Foreach.exe
+C:\Projetos\Collections-pt2\Collections-Pt2\Foreach\obj\Debug\Foreach.pdb
